@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e5d2185-2c01-40cc-9462-e4cd3f32cdaa" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="algorithms" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code_repo/LIS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="82" column="13" lean-forward="true" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/300-LIS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>f</find>
+      <find>lp</find>
+      <find>iarl</find>
+      <find>iai*</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>j</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/job_test/yitu_jing/1.py" />
+        <option value="$PROJECT_DIR$/job_test/yitu_jing/2_dijkstra.py" />
+        <option value="$PROJECT_DIR$/code_repo/graph/dijkstra.py" />
+        <option value="$PROJECT_DIR$/code_repo/graph/floyd.py" />
+        <option value="$PROJECT_DIR$/job_test/jd/1.py" />
+        <option value="$PROJECT_DIR$/job_test/jd/popStar.py" />
+        <option value="$PROJECT_DIR$/job_test/kuaishou/1.py" />
+        <option value="$PROJECT_DIR$/job_test/kuaishou/test.py" />
+        <option value="$PROJECT_DIR$/job_test/kuaishou/4.py" />
+        <option value="$PROJECT_DIR$/job_test/kuaishou/4_.py" />
+        <option value="$PROJECT_DIR$/job_test/BytesDance/1.py" />
+        <option value="$PROJECT_DIR$/job_test/BytesDance/2.py" />
+        <option value="$PROJECT_DIR$/2018LeetCode/string/test.py" />
+        <option value="$PROJECT_DIR$/2018LeetCode/string/findWords.py" />
+        <option value="$PROJECT_DIR$/job_test/kuaishou/una_4.py" />
+        <option value="$PROJECT_DIR$/job_test/didi/1.py" />
+        <option value="$PROJECT_DIR$/job_test/didi/2.py" />
+        <option value="$PROJECT_DIR$/0-1bag.py" />
+        <option value="$PROJECT_DIR$/job_test/yuanjing/1.py" />
+        <option value="$PROJECT_DIR$/job_test/yuanjing/2.py" />
+        <option value="$PROJECT_DIR$/job_test/sina/1.py" />
+        <option value="$PROJECT_DIR$/2018LeetCode/string/isAnagram.py" />
+        <option value="$PROJECT_DIR$/2018LeetCode/2_list/maxProduct.py" />
+        <option value="$PROJECT_DIR$/job_test/pdd_2/3.py" />
+        <option value="$PROJECT_DIR$/job_test/pdd_2/2.py" />
+        <option value="$PROJECT_DIR$/job_test/Tencent/1.py" />
+        <option value="$PROJECT_DIR$/job_test/Tencent/2.py" />
+        <option value="$PROJECT_DIR$/job_test/Tencent/4.py" />
+        <option value="$PROJECT_DIR$/job_test/Tencent/5.py" />
+        <option value="$PROJECT_DIR$/job_test/pdd_2/1.py" />
+        <option value="$PROJECT_DIR$/job_test/Tencent/3.py" />
+        <option value="$PROJECT_DIR$/job_test/pdd_2/3_una.py" />
+        <option value="$PROJECT_DIR$/code_repo/sort/heap_sort.py" />
+        <option value="$PROJECT_DIR$/code_repo/topK.py" />
+        <option value="$PROJECT_DIR$/job_test/pdd_2/1_gg.py" />
+        <option value="$PROJECT_DIR$/code_repo/qpow.py" />
+        <option value="$PROJECT_DIR$/code_repo/biSearch.py" />
+        <option value="$PROJECT_DIR$/job_test/pdd_2/4_gg.py" />
+        <option value="$PROJECT_DIR$/job_test/pdd_2/4.py" />
+        <option value="$PROJECT_DIR$/job_test/xiaohongshu/1.py" />
+        <option value="$PROJECT_DIR$/job_test/xiaohongshu/2.py" />
+        <option value="$PROJECT_DIR$/job_test/xiaohongshu/3.py" />
+        <option value="$PROJECT_DIR$/job_test/xiaohongshu/3_.py" />
+        <option value="$PROJECT_DIR$/job_test/ctrip.py" />
+        <option value="$PROJECT_DIR$/job_test/ctrip/3.py" />
+        <option value="$PROJECT_DIR$/job_test/iqiyi/1.py" />
+        <option value="$PROJECT_DIR$/job_test/iqiyi/2.py" />
+        <option value="$PROJECT_DIR$/LongestIncreasingSubsequence.py" />
+        <option value="$PROJECT_DIR$/LIS.py" />
+        <option value="$PROJECT_DIR$/LeetCode/300-LIS.py" />
+        <option value="$PROJECT_DIR$/code_repo/LIS.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="2018LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="code_repo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code_repo" />
+      <recent name="$PROJECT_DIR$/job_test/ctrip" />
+      <recent name="$PROJECT_DIR$/LeetCode" />
+      <recent name="$PROJECT_DIR$/2018LeetCode/ch-0-1" />
+      <recent name="$PROJECT_DIR$/liulishuo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.300-LIS">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/job_test/iqiyi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/job_test/iqiyi/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/job_test/iqiyi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/job_test/iqiyi/2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/job_test/ctrip" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/job_test/ctrip/3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="300-LIS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/300-LIS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LIS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_repo/LIS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.3 (1)" />
+      <item itemvalue="Python.1" />
+      <item itemvalue="Python.2" />
+      <item itemvalue="Python.LIS" />
+      <item itemvalue="Python.300-LIS" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.300-LIS" />
+        <item itemvalue="Python.LIS" />
+        <item itemvalue="Python.2" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.3 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e5d2185-2c01-40cc-9462-e4cd3f32cdaa" name="Default Changelist" comment="" />
+      <created>1563440889603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563440889603</updated>
+      <workItem from="1563440891962" duration="127000" />
+      <workItem from="1564318111663" duration="24470000" />
+      <workItem from="1564498698157" duration="5778000" />
+      <workItem from="1564756209392" duration="4003000" />
+      <workItem from="1564884493836" duration="7196000" />
+      <workItem from="1565261950466" duration="4578000" />
+      <workItem from="1565349968710" duration="4315000" />
+      <workItem from="1565400838053" duration="5899000" />
+      <workItem from="1565618649812" duration="18543000" />
+      <workItem from="1565869422111" duration="248000" />
+      <workItem from="1565949074575" duration="4015000" />
+      <workItem from="1565969469404" duration="654000" />
+      <workItem from="1566104167813" duration="3069000" />
+      <workItem from="1566177542616" duration="6599000" />
+      <workItem from="1566385379830" duration="5485000" />
+      <workItem from="1566399303507" duration="3157000" />
+      <workItem from="1566481373163" duration="1000" />
+      <workItem from="1566526382161" duration="7932000" />
+      <workItem from="1566558053710" duration="20161000" />
+      <workItem from="1566644370467" duration="53838000" />
+      <workItem from="1567391114174" duration="9998000" />
+      <workItem from="1567424845383" duration="9519000" />
+      <workItem from="1567508235186" duration="8486000" />
+      <workItem from="1567600796646" duration="3000000" />
+      <workItem from="1567844605073" duration="396000" />
+      <workItem from="1567925927241" duration="3093000" />
+      <workItem from="1568078813171" duration="346000" />
+      <workItem from="1568083091587" duration="8316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="223222000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.20821325" />
+      <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.13544668" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.3299712" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32898173" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37206265" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35900784" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32898173" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32898173" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32972974" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32972974" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/liulishuo/sumTree.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/liulishuo/sumTree.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/liulishuo/sumTree.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode/41_firstMissingPositive.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jianzhiOffer/reConstructBinaryTree.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jianzhiOffer/reConstructBinaryTree.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode/240_searchMatrix.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/job_test/pdd/1-2.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/job_test/pdd/1-2.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/job_test/pdd/4.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/job_test/pdd/4.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode/84_largestRectangleArea.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode/547_findCircleNum.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/job_test/iflytek/1.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2018LeetCode/1_string/partition2palindrome.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2018LeetCode/1_string/partition2palindrome.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2018LeetCode/1_string/wordBreak_1.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2018LeetCode/1_string/wordBreak_2.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2018LeetCode/1_string/Trie.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/job_test/yitu_jing/2_dijkstra.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/job_test/yitu_jing/2_dijkstra.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2018LeetCode/1_string/findWords.py</url>
+          <line>116</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2018LeetCode/1_string/findWords.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/job_test/didi/1.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/job_test/kuaishou/una_4.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/job_test/Tencent/4.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/job_test/xiaohongshu/1.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/job_test/ctrip/3.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_repo/LIS.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algorithms$2.coverage" NAME="2 Coverage Results" MODIFIED="1567933364057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/job_test/iqiyi" />
+    <SUITE FILE_PATH="coverage/algorithms$reConstructBinaryTree.coverage" NAME="reConstructBinaryTree Coverage Results" MODIFIED="1564803720640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhiOffer" />
+    <SUITE FILE_PATH="coverage/algorithms$isPalindrome.coverage" NAME="isPalindrome Coverage Results" MODIFIED="1566178475724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2018LeetCode/string" />
+    <SUITE FILE_PATH="coverage/algorithms$wordBreak_2.coverage" NAME="wordBreak_2 Coverage Results" MODIFIED="1566548777434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2018LeetCode/string" />
+    <SUITE FILE_PATH="coverage/algorithms$0_1bag.coverage" NAME="0-1bag Coverage Results" MODIFIED="1564474274304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithms$optional_str.coverage" NAME="optional_str Coverage Results" MODIFIED="1565787459217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/job_test" />
+    <SUITE FILE_PATH="coverage/algorithms$self_test__1_.coverage" NAME="self_test (1) Coverage Results" MODIFIED="1565597353195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/job_test/pdd" />
+    <SUITE FILE_PATH="coverage/algorithms$pdd_wu_tech2.coverage" NAME="pdd_wu_tech2 Coverage Results" MODIFIED="1565790141855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/job_test/pdd" />
+    <SUITE FILE_PATH="coverage/algorithms$searchMatrix.coverage" NAME="searchMatrix Coverage Results" MODIFIED="1564893257924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
+    <SUITE FILE_PATH="coverage/algorithms$Trie.coverage" NAME="Trie Coverage Results" MODIFIED="1566548788203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2018LeetCode/string" />
+    <SUITE FILE_PATH="coverage/algorithms$biSearch.coverage" NAME="biSearch Coverage Results" MODIFIED="1567431155013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_repo" />
+    <SUITE FILE_PATH="coverage/algorithms$wordBreak.coverage" NAME="wordBreak Coverage Results" MODIFIED="1566202463235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2018LeetCode/string" />
+    <SUITE FILE_PATH="coverage/algorithms$84_largestRectangleArea.coverage" NAME="84_largestRectangleArea Coverage Results" MODIFIED="1565852848017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
+    <SUITE FILE_PATH="coverage/algorithms$partition2palindrome.coverage" NAME="partition2palindrome Coverage Results" MODIFIED="1566181313969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2018LeetCode/string" />
+    <SUITE FILE_PATH="coverage/algorithms$LIS.coverage" NAME="LIS Coverage Results" MODIFIED="1568101356200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithms$4__1_.coverage" NAME="4 (1) Coverage Results" MODIFIED="1567345415514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/job_test/Tencent" />
+    <SUITE FILE_PATH="coverage/algorithms$4.coverage" NAME="4 Coverage Results" MODIFIED="1567475947786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/job_test/pdd_2" />
+    <SUITE FILE_PATH="coverage/algorithms$300_LIS.coverage" NAME="300-LIS Coverage Results" MODIFIED="1568105946450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
+    <SUITE FILE_PATH="coverage/algorithms$1__1_.coverage" NAME="1 (1) Coverage Results" MODIFIED="1567600209242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/job_test/xiaohongshu" />
+    <SUITE FILE_PATH="coverage/algorithms$generateKuohao.coverage" NAME="generateKuohao Coverage Results" MODIFIED="1566105106261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithms$3__1_.coverage" NAME="3 (1) Coverage Results" MODIFIED="1567844950323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/job_test/ctrip" />
+    <SUITE FILE_PATH="coverage/algorithms$floyd.coverage" NAME="floyd Coverage Results" MODIFIED="1566633601721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_repo/graph" />
+    <SUITE FILE_PATH="coverage/algorithms$maxProduct.coverage" NAME="maxProduct Coverage Results" MODIFIED="1567320139418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2018LeetCode/2_list" />
+    <SUITE FILE_PATH="coverage/algorithms$1.coverage" NAME="1 Coverage Results" MODIFIED="1567928280936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/job_test/iqiyi" />
+    <SUITE FILE_PATH="coverage/algorithms$4_.coverage" NAME="4_ Coverage Results" MODIFIED="1566725350129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/job_test/kuaishou" />
+    <SUITE FILE_PATH="coverage/algorithms$firstMissingPositive.coverage" NAME="firstMissingPositive Coverage Results" MODIFIED="1564802229203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
+    <SUITE FILE_PATH="coverage/algorithms$una_4.coverage" NAME="una_4 Coverage Results" MODIFIED="1566915231974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/job_test/kuaishou" />
+    <SUITE FILE_PATH="coverage/algorithms$2__1_.coverage" NAME="2 (1) Coverage Results" MODIFIED="1567343363070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/job_test/Tencent" />
+    <SUITE FILE_PATH="coverage/algorithms$3_.coverage" NAME="3_ Coverage Results" MODIFIED="1567515260085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/job_test/xiaohongshu" />
+    <SUITE FILE_PATH="coverage/algorithms$test.coverage" NAME="test Coverage Results" MODIFIED="1566725703399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/job_test/kuaishou" />
+    <SUITE FILE_PATH="coverage/algorithms$isAnagram.coverage" NAME="isAnagram Coverage Results" MODIFIED="1567306720107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2018LeetCode/string" />
+    <SUITE FILE_PATH="coverage/algorithms$547_findCircleNum.coverage" NAME="547_findCircleNum Coverage Results" MODIFIED="1565868258862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
+    <SUITE FILE_PATH="coverage/algorithms$1__2_.coverage" NAME="1 (2) Coverage Results" MODIFIED="1567322568021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/job_test/pdd_2" />
+    <SUITE FILE_PATH="coverage/algorithms$topK.coverage" NAME="topK Coverage Results" MODIFIED="1567413921375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_repo" />
+    <SUITE FILE_PATH="coverage/algorithms$findWords.coverage" NAME="findWords Coverage Results" MODIFIED="1566804693414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2018LeetCode/string" />
+    <SUITE FILE_PATH="coverage/algorithms$4_gg.coverage" NAME="4_gg Coverage Results" MODIFIED="1567395801773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/job_test/pdd_2" />
+    <SUITE FILE_PATH="coverage/algorithms$3_una.coverage" NAME="3_una Coverage Results" MODIFIED="1567394940728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/job_test/pdd_2" />
+    <SUITE FILE_PATH="coverage/algorithms$3.coverage" NAME="3 Coverage Results" MODIFIED="1567513421030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/job_test/xiaohongshu" />
+    <SUITE FILE_PATH="coverage/algorithms$heap_sort.coverage" NAME="heap_sort Coverage Results" MODIFIED="1567413534194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_repo/sort" />
+    <SUITE FILE_PATH="coverage/algorithms$85_.coverage" NAME="85_ Coverage Results" MODIFIED="1565856037244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
+    <SUITE FILE_PATH="coverage/algorithms$self_test.coverage" NAME="self_test Coverage Results" MODIFIED="1565597193509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort" />
+    <SUITE FILE_PATH="coverage/algorithms$dijkstra.coverage" NAME="dijkstra Coverage Results" MODIFIED="1566632593649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_repo/graph" />
+    <SUITE FILE_PATH="coverage/algorithms$sumTree.coverage" NAME="sumTree Coverage Results" MODIFIED="1564759331586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/liulishuo" />
+    <SUITE FILE_PATH="coverage/algorithms$2_dijkstra.coverage" NAME="2_dijkstra Coverage Results" MODIFIED="1566610206950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/job_test/yitu_jing" />
+    <SUITE FILE_PATH="coverage/algorithms$ctrip.coverage" NAME="ctrip Coverage Results" MODIFIED="1567598403874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/job_test" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/code_repo/graph/dijkstra.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1804">
+          <caret line="83" column="25" selection-start-line="83" selection-start-column="25" selection-end-line="83" selection-end-column="25" />
+          <folding>
+            <element signature="e#65#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_repo/graph/floyd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_test/jd/1.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/kuaishou/test.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/wjh_BytesDance/1.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/wjh_BytesDance/2.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/jd/popStar.py" />
+    <entry file="file://$PROJECT_DIR$/2018LeetCode/1_string/findWords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_test/kuaishou/4.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/kuaishou/4_.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/kuaishou/una_4.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/kuaishou/2.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/didi/1.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/didi/2.py" />
+    <entry file="file://$PROJECT_DIR$/0-1bag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_test/yuanjing/1.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/yuanjing/2.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/sina/1.py" />
+    <entry file="file://$PROJECT_DIR$/2018LeetCode/1_string/isAnagram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018LeetCode/2_list/maxProduct.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_test/pdd_2/2.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/Tencent/1.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/Tencent/5.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/pdd_2/3_gg.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/pdd_2/3_una.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/pdd_2/1.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/pdd_2/1_gg.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/pdd_2/4_gg.py" />
+    <entry file="file://$PROJECT_DIR$/code_repo/biSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_repo/sort/heap_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_repo/topK.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="45" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_test/Tencent/3.py" />
+    <entry file="file://$PROJECT_DIR$/code_repo/qpow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_test/Tencent/4.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/Tencent/2.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/pdd/2.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/xiaohongshu/3_.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/xiaohongshu/3.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/xiaohongshu/2.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/xiaohongshu/1.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/pdd_2/4.py" />
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="810" selection-start-line="810" selection-end-line="810" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="320" selection-start-line="320" selection-end-line="320" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_test/ctrip/3.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/ctrip/2.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/iqiyi/1.py" />
+    <entry file="file://$PROJECT_DIR$/job_test/iqiyi/2.py" />
+    <entry file="file://$PROJECT_DIR$/pdd.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_repo/LIS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="82" column="13" lean-forward="true" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/300-LIS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
